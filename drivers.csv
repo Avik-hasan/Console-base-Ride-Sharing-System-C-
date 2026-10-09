@@ -1,0 +1,1002 @@
+1,d1,d1,Bike,Wari,1,108,1,0,0
+2,d2,d2,CNG,Gulshan-1,1,0,0,0,0
+3,d3,d3,UberX,Sadarghat,1,499.204,1,5,1
+4,d4,d4,UberX,Banani,1,1285.36,2,4.5,2
+5,d5,d5,Bike,Uttara-1,1,0,0,0,0
+6,d6,d6,CNG,Uttara-3,1,0,0,0,0
+7,d7,d7,UberX,Uttara-7,1,0,0,0,0
+8,d8,d8,UberX,Mirpur-1,1,0,0,0,0
+9,d9,d9,Bike,Karwan Bazar,1,300.78,2,4,2
+10,d10,d10,CNG,Mirpur-12,1,0,0,0,0
+11,d11,d11,UberX,Mohammadpur,1,0,0,0,0
+12,d12,d12,UberX,Uttara-7,0,0,0,0,0
+13,d13,d13,Bike,Karwan Bazar,1,0,0,0,0
+14,d14,d14,CNG,Shahbagh,1,0,0,0,0
+15,d15,d15,UberX,Ramna,1,0,0,0,0
+16,d16,d16,UberX,Motijheel,1,0,0,0,0
+17,d17,d17,Bike,Paltan,1,286.097,3,4.66667,3
+18,d18,d18,CNG,Kamalapur,1,0,0,0,0
+19,d19,d19,UberX,Jatrabari,1,0,0,0,0
+20,d20,d20,UberX,Badda,1,505.2,1,4,1
+21,d21,d21,Bike,Bijoynagar,1,108,1,0,0
+22,d22,d22,CNG,Rampura,1,0,0,0,0
+23,d23,d23,UberX,Malibagh,1,0,0,0,0
+24,d24,d24,UberX,Moghbazar,1,0,0,0,0
+25,d25,d25,Bike,Keraniganj,1,305.656,2,4.5,2
+26,d26,d26,CNG,Hazaribagh,1,251.663,1,4,1
+27,d27,d27,UberX,Pallabi,1,383.776,1,4,1
+28,d28,d28,UberX,DOHS Mohakhali,1,423.303,1,4,1
+29,d29,d29,Bike,Kuril,1,176.196,1,4,1
+30,d30,d30,CNG,Kallyanpur,1,0,0,0,0
+31,d31,d31,UberX,Gabtoli,1,0,0,0,0
+32,d32,d32,UberX,Hazaribagh,1,0,0,0,0
+33,d33,d33,Bike,Tongi,0,0,0,0,0
+34,d34,d34,CNG,Khilkhet,0,0,0,0,0
+35,d35,d35,UberX,Sadarghat,1,0,0,0,0
+36,d36,d36,UberX,Keraniganj,1,0,0,0,0
+37,d37,d37,Bike,Bangshal,1,385.884,2,4.5,2
+38,d38,d38,CNG,Postogola,1,0,0,0,0
+39,d39,d39,UberX,Wari,1,0,0,0,0
+40,d40,d40,UberX,Sutrapur,1,0,0,0,0
+41,d41,d41,Bike,Bangshal,1,0,0,0,0
+42,d42,d42,CNG,Islampur,1,0,0,0,0
+43,d43,d43,UberX,New Market,1,0,0,0,0
+44,d44,d44,UberX,Elephant Road,0,0,0,0,0
+45,d45,d45,Bike,Agargaon,1,175.844,1,4,1
+46,d46,d46,CNG,Mirpur-1,0,281.037,1,5,1
+47,d47,d47,UberX,Abdullahpur,1,461.734,1,4,1
+48,d48,d48,UberX,Bashundhara,1,0,0,0,0
+49,d49,d49,Bike,Kuril,1,0,0,0,0
+50,d50,d50,CNG,Sadarghat,1,1582.43,2,4.5,2
+51,d51,d51,UberX,Baridhara,1,434.939,1,4,1
+52,d52,d52,UberX,Khilkhet,1,0,0,0,0
+53,d53,d53,Bike,Baridhara,1,0,0,0,0
+54,d54,d54,CNG,DOHS Mohakhali,1,0,0,0,0
+55,d55,d55,UberX,Mohakhali,1,0,0,0,0
+56,d56,d56,UberX,Tongi,0,0,0,0,0
+57,d57,d57,Bike,Eskaton,1,0,0,0,0
+58,d58,d58,CNG,Hatirpool,1,0,0,0,0
+59,d59,d59,UberX,Kakrail,1,0,0,0,0
+60,d60,d60,UberX,Bijoynagar,1,0,0,0,0
+61,d61,d61,Bike,Dhanmondi,1,0,0,0,0
+62,d62,d62,CNG,Gulshan-1,1,0,0,0,0
+63,d63,d63,UberX,Abdullahpur,1,1228.29,1,5,1
+64,d64,d64,UberX,Banani,1,0,0,0,0
+65,d65,d65,Bike,Uttara-1,1,0,0,0,0
+66,d66,d66,CNG,Uttara-3,1,0,0,0,0
+67,d67,d67,UberX,Uttara-7,1,0,0,0,0
+68,d68,d68,UberX,Mirpur-1,1,0,0,0,0
+69,d69,d69,Bike,Mirpur-10,1,0,0,0,0
+70,d70,d70,CNG,Mirpur-12,1,0,0,0,0
+71,d71,d71,UberX,Mohammadpur,1,0,0,0,0
+72,d72,d72,UberX,Farmgate,1,0,0,0,0
+73,d73,d73,Bike,Karwan Bazar,1,0,0,0,0
+74,d74,d74,CNG,Shahbagh,1,0,0,0,0
+75,d75,d75,UberX,Ramna,1,0,0,0,0
+76,d76,d76,UberX,Motijheel,1,0,0,0,0
+77,d77,d77,Bike,Paltan,1,0,0,0,0
+78,d78,d78,CNG,Kamalapur,1,0,0,0,0
+79,d79,d79,UberX,Jatrabari,1,0,0,0,0
+80,d80,d80,UberX,Demra,1,0,0,0,0
+81,d81,d81,Bike,Wari,1,368,2,4.5,2
+82,d82,d82,CNG,Rampura,1,0,0,0,0
+83,d83,d83,UberX,Malibagh,1,0,0,0,0
+84,d84,d84,UberX,Moghbazar,1,0,0,0,0
+85,d85,d85,Bike,Demra,1,156,1,5,1
+86,d86,d86,CNG,Agargaon,1,0,0,0,0
+87,d87,d87,UberX,Shewrapara,1,0,0,0,0
+88,d88,d88,UberX,Pallabi,1,501.553,1,4,1
+89,d89,d89,Bike,Pallabi,1,0,0,0,0
+90,d90,d90,CNG,Kallyanpur,1,0,0,0,0
+91,d91,d91,UberX,Gabtoli,1,0,0,0,0
+92,d92,d92,UberX,Hazaribagh,1,0,0,0,0
+93,d93,d93,Bike,Lalbagh,1,0,0,0,0
+94,d94,d94,CNG,Chawk Bazar,1,0,0,0,0
+95,d95,d95,UberX,Sadarghat,1,0,0,0,0
+96,d96,d96,UberX,Keraniganj,1,0,0,0,0
+97,d97,d97,Bike,Shyampur,1,0,0,0,0
+98,d98,d98,CNG,Postogola,1,0,0,0,0
+99,d99,d99,UberX,Wari,1,0,0,0,0
+100,d100,d100,UberX,Sutrapur,1,0,0,0,0
+101,d101,d101,Bike,Bangshal,1,0,0,0,0
+102,d102,d102,CNG,Islampur,1,0,0,0,0
+103,d103,d103,UberX,New Market,1,0,0,0,0
+104,d104,d104,UberX,Elephant Road,1,0,0,0,0
+105,d105,d105,Bike,Science Lab,1,0,0,0,0
+106,d106,d106,CNG,Green Road,1,0,0,0,0
+107,d107,d107,UberX,Panthapath,1,0,0,0,0
+108,d108,d108,UberX,Bashundhara,1,0,0,0,0
+109,d109,d109,Bike,Kuril,1,0,0,0,0
+110,d110,d110,CNG,Nikunja,1,0,0,0,0
+111,d111,d111,UberX,Tejgaon,1,0,0,0,0
+112,d112,d112,UberX,Khilkhet,1,0,0,0,0
+113,d113,d113,Bike,Baridhara,1,0,0,0,0
+114,d114,d114,CNG,DOHS Mohakhali,1,0,0,0,0
+115,d115,d115,UberX,Mohakhali,1,0,0,0,0
+116,d116,d116,UberX,Nakhalpara,1,0,0,0,0
+117,d117,d117,Bike,Eskaton,1,0,0,0,0
+118,d118,d118,CNG,Hatirpool,1,0,0,0,0
+119,d119,d119,UberX,Kakrail,1,0,0,0,0
+120,d120,d120,UberX,Bijoynagar,1,0,0,0,0
+121,d121,d121,Bike,Dhanmondi,1,0,0,0,0
+122,d122,d122,CNG,Gulshan-1,1,0,0,0,0
+123,d123,d123,UberX,Gulshan-2,1,0,0,0,0
+124,d124,d124,UberX,Banani,1,0,0,0,0
+125,d125,d125,Bike,Uttara-1,1,0,0,0,0
+126,d126,d126,CNG,Uttara-3,1,0,0,0,0
+127,d127,d127,UberX,Uttara-7,1,0,0,0,0
+128,d128,d128,UberX,Mirpur-1,1,0,0,0,0
+129,d129,d129,Bike,Mirpur-10,1,0,0,0,0
+130,d130,d130,CNG,Mirpur-12,1,0,0,0,0
+131,d131,d131,UberX,Mohammadpur,1,0,0,0,0
+132,d132,d132,UberX,Farmgate,1,0,0,0,0
+133,d133,d133,Bike,Karwan Bazar,1,0,0,0,0
+134,d134,d134,CNG,Shahbagh,1,0,0,0,0
+135,d135,d135,UberX,Ramna,1,0,0,0,0
+136,d136,d136,UberX,Motijheel,1,0,0,0,0
+137,d137,d137,Bike,Paltan,1,0,0,0,0
+138,d138,d138,CNG,Kamalapur,1,0,0,0,0
+139,d139,d139,UberX,Jatrabari,1,0,0,0,0
+140,d140,d140,UberX,Demra,1,0,0,0,0
+141,d141,d141,Bike,Demra,1,162.96,1,5,1
+142,d142,d142,CNG,Rampura,1,0,0,0,0
+143,d143,d143,UberX,Malibagh,1,0,0,0,0
+144,d144,d144,UberX,Moghbazar,1,0,0,0,0
+145,d145,d145,Bike,Demra,1,168,1,5,1
+146,d146,d146,CNG,Agargaon,1,0,0,0,0
+147,d147,d147,UberX,Shewrapara,1,0,0,0,0
+148,d148,d148,UberX,Kazipara,1,0,0,0,0
+149,d149,d149,Bike,Pallabi,1,0,0,0,0
+150,d150,d150,CNG,Kallyanpur,1,0,0,0,0
+151,d151,d151,UberX,Gabtoli,1,0,0,0,0
+152,d152,d152,UberX,Hazaribagh,1,0,0,0,0
+153,d153,d153,Bike,Lalbagh,1,0,0,0,0
+154,d154,d154,CNG,Chawk Bazar,1,0,0,0,0
+155,d155,d155,UberX,Sadarghat,1,0,0,0,0
+156,d156,d156,UberX,Keraniganj,1,0,0,0,0
+157,d157,d157,Bike,Shyampur,1,0,0,0,0
+158,d158,d158,CNG,Postogola,1,0,0,0,0
+159,d159,d159,UberX,Wari,1,0,0,0,0
+160,d160,d160,UberX,Sutrapur,1,0,0,0,0
+161,d161,d161,Bike,Bangshal,1,0,0,0,0
+162,d162,d162,CNG,Islampur,1,0,0,0,0
+163,d163,d163,UberX,New Market,1,0,0,0,0
+164,d164,d164,UberX,Elephant Road,1,0,0,0,0
+165,d165,d165,Bike,Science Lab,1,0,0,0,0
+166,d166,d166,CNG,Green Road,1,0,0,0,0
+167,d167,d167,UberX,Panthapath,1,0,0,0,0
+168,d168,d168,UberX,Bashundhara,1,0,0,0,0
+169,d169,d169,Bike,Kuril,1,0,0,0,0
+170,d170,d170,CNG,Nikunja,1,0,0,0,0
+171,d171,d171,UberX,Bashundhara,1,466.158,1,5,1
+172,d172,d172,UberX,Khilkhet,1,0,0,0,0
+173,d173,d173,Bike,Baridhara,1,0,0,0,0
+174,d174,d174,CNG,DOHS Mohakhali,1,0,0,0,0
+175,d175,d175,UberX,Mohakhali,1,0,0,0,0
+176,d176,d176,UberX,Nakhalpara,1,0,0,0,0
+177,d177,d177,Bike,Eskaton,1,0,0,0,0
+178,d178,d178,CNG,Hatirpool,1,0,0,0,0
+179,d179,d179,UberX,Kakrail,1,0,0,0,0
+180,d180,d180,UberX,Bijoynagar,1,0,0,0,0
+181,d181,d181,Bike,Dhanmondi,1,0,0,0,0
+182,d182,d182,CNG,Gulshan-1,1,0,0,0,0
+183,d183,d183,UberX,Gulshan-2,1,0,0,0,0
+184,d184,d184,UberX,Banani,1,0,0,0,0
+185,d185,d185,Bike,Uttara-1,1,0,0,0,0
+186,d186,d186,CNG,Uttara-3,1,0,0,0,0
+187,d187,d187,UberX,Uttara-7,1,0,0,0,0
+188,d188,d188,UberX,Mirpur-1,1,0,0,0,0
+189,d189,d189,Bike,Mirpur-10,1,0,0,0,0
+190,d190,d190,CNG,Mirpur-12,1,0,0,0,0
+191,d191,d191,UberX,Mohammadpur,1,0,0,0,0
+192,d192,d192,UberX,Farmgate,1,0,0,0,0
+193,d193,d193,Bike,Karwan Bazar,1,0,0,0,0
+194,d194,d194,CNG,Shahbagh,1,0,0,0,0
+195,d195,d195,UberX,Ramna,1,0,0,0,0
+196,d196,d196,UberX,Motijheel,1,0,0,0,0
+197,d197,d197,Bike,Paltan,1,0,0,0,0
+198,d198,d198,CNG,Kamalapur,1,0,0,0,0
+199,d199,d199,UberX,Jatrabari,1,0,0,0,0
+200,d200,d200,UberX,Demra,1,0,0,0,0
+201,d201,d201,Bike,Gulshan-1,1,96.0219,1,0,0
+202,d202,d202,CNG,Rampura,1,0,0,0,0
+203,d203,d203,UberX,Malibagh,1,0,0,0,0
+204,d204,d204,UberX,Moghbazar,1,0,0,0,0
+205,d205,d205,Bike,Abdullahpur,1,776.435,3,4.33333,3
+206,d206,d206,CNG,Agargaon,1,0,0,0,0
+207,d207,d207,UberX,Shewrapara,1,0,0,0,0
+208,d208,d208,UberX,Kazipara,1,0,0,0,0
+209,d209,d209,Bike,Pallabi,1,0,0,0,0
+210,d210,d210,CNG,Kallyanpur,1,0,0,0,0
+211,d211,d211,UberX,Gabtoli,1,0,0,0,0
+212,d212,d212,UberX,Hazaribagh,1,0,0,0,0
+213,d213,d213,Bike,Lalbagh,1,0,0,0,0
+214,d214,d214,CNG,Chawk Bazar,1,0,0,0,0
+215,d215,d215,UberX,Sadarghat,1,0,0,0,0
+216,d216,d216,UberX,Keraniganj,1,0,0,0,0
+217,d217,d217,Bike,Shyampur,1,0,0,0,0
+218,d218,d218,CNG,Postogola,1,0,0,0,0
+219,d219,d219,UberX,Wari,1,0,0,0,0
+220,d220,d220,UberX,Sutrapur,1,0,0,0,0
+221,d221,d221,Bike,Bangshal,1,0,0,0,0
+222,d222,d222,CNG,Islampur,1,0,0,0,0
+223,d223,d223,UberX,New Market,1,0,0,0,0
+224,d224,d224,UberX,Elephant Road,1,0,0,0,0
+225,d225,d225,Bike,Science Lab,1,0,0,0,0
+226,d226,d226,CNG,Green Road,1,0,0,0,0
+227,d227,d227,UberX,Panthapath,1,0,0,0,0
+228,d228,d228,UberX,Bashundhara,1,0,0,0,0
+229,d229,d229,Bike,Kuril,1,0,0,0,0
+230,d230,d230,CNG,Nikunja,1,0,0,0,0
+231,d231,d231,UberX,Banani,1,436.301,1,4,1
+232,d232,d232,UberX,Khilkhet,1,0,0,0,0
+233,d233,d233,Bike,Baridhara,1,0,0,0,0
+234,d234,d234,CNG,DOHS Mohakhali,1,0,0,0,0
+235,d235,d235,UberX,Mohakhali,1,0,0,0,0
+236,d236,d236,UberX,Nakhalpara,1,0,0,0,0
+237,d237,d237,Bike,Eskaton,1,0,0,0,0
+238,d238,d238,CNG,Hatirpool,1,0,0,0,0
+239,d239,d239,UberX,Kakrail,1,0,0,0,0
+240,d240,d240,UberX,Bijoynagar,1,0,0,0,0
+241,d241,d241,Bike,Dhanmondi,1,0,0,0,0
+242,d242,d242,CNG,Gulshan-1,1,0,0,0,0
+243,d243,d243,UberX,Gulshan-2,1,0,0,0,0
+244,d244,d244,UberX,Banani,1,0,0,0,0
+245,d245,d245,Bike,Uttara-1,1,0,0,0,0
+246,d246,d246,CNG,Uttara-3,1,0,0,0,0
+247,d247,d247,UberX,Uttara-7,1,0,0,0,0
+248,d248,d248,UberX,Mirpur-1,1,0,0,0,0
+249,d249,d249,Bike,Mirpur-10,1,0,0,0,0
+250,d250,d250,CNG,Mirpur-12,1,0,0,0,0
+251,d251,d251,UberX,Mohammadpur,1,0,0,0,0
+252,d252,d252,UberX,Farmgate,1,0,0,0,0
+253,d253,d253,Bike,Karwan Bazar,1,0,0,0,0
+254,d254,d254,CNG,Shahbagh,1,0,0,0,0
+255,d255,d255,UberX,Ramna,1,0,0,0,0
+256,d256,d256,UberX,Motijheel,1,0,0,0,0
+257,d257,d257,Bike,Paltan,1,0,0,0,0
+258,d258,d258,CNG,Kamalapur,1,0,0,0,0
+259,d259,d259,UberX,Jatrabari,1,0,0,0,0
+260,d260,d260,UberX,Demra,1,0,0,0,0
+261,d261,d261,Bike,Gulshan-1,1,96.0219,1,0,0
+262,d262,d262,CNG,Rampura,1,0,0,0,0
+263,d263,d263,UberX,Malibagh,1,0,0,0,0
+264,d264,d264,UberX,Moghbazar,1,0,0,0,0
+265,d265,d265,Bike,Demra,1,168,1,5,1
+266,d266,d266,CNG,Agargaon,1,0,0,0,0
+267,d267,d267,UberX,Shewrapara,1,0,0,0,0
+268,d268,d268,UberX,Kazipara,1,0,0,0,0
+269,d269,d269,Bike,Pallabi,1,0,0,0,0
+270,d270,d270,CNG,Kallyanpur,1,0,0,0,0
+271,d271,d271,UberX,Gabtoli,1,0,0,0,0
+272,d272,d272,UberX,Hazaribagh,1,0,0,0,0
+273,d273,d273,Bike,Lalbagh,1,0,0,0,0
+274,d274,d274,CNG,Chawk Bazar,1,0,0,0,0
+275,d275,d275,UberX,Sadarghat,1,0,0,0,0
+276,d276,d276,UberX,Keraniganj,1,0,0,0,0
+277,d277,d277,Bike,Shyampur,1,0,0,0,0
+278,d278,d278,CNG,Postogola,1,0,0,0,0
+279,d279,d279,UberX,Wari,1,0,0,0,0
+280,d280,d280,UberX,Sutrapur,1,0,0,0,0
+281,d281,d281,Bike,Bangshal,1,0,0,0,0
+282,d282,d282,CNG,Islampur,1,0,0,0,0
+283,d283,d283,UberX,New Market,1,0,0,0,0
+284,d284,d284,UberX,Elephant Road,1,0,0,0,0
+285,d285,d285,Bike,Science Lab,1,0,0,0,0
+286,d286,d286,CNG,Green Road,1,0,0,0,0
+287,d287,d287,UberX,Panthapath,1,0,0,0,0
+288,d288,d288,UberX,Bashundhara,1,0,0,0,0
+289,d289,d289,Bike,Kuril,1,0,0,0,0
+290,d290,d290,CNG,Nikunja,1,0,0,0,0
+291,d291,d291,UberX,Airport,1,0,0,0,0
+292,d292,d292,UberX,Khilkhet,1,0,0,0,0
+293,d293,d293,Bike,Baridhara,1,0,0,0,0
+294,d294,d294,CNG,DOHS Mohakhali,1,0,0,0,0
+295,d295,d295,UberX,Mohakhali,1,0,0,0,0
+296,d296,d296,UberX,Nakhalpara,1,0,0,0,0
+297,d297,d297,Bike,Eskaton,1,0,0,0,0
+298,d298,d298,CNG,Hatirpool,1,0,0,0,0
+299,d299,d299,UberX,Kakrail,1,0,0,0,0
+300,d300,d300,UberX,Bijoynagar,1,0,0,0,0
+301,d301,d301,Bike,Dhanmondi,1,0,0,0,0
+302,d302,d302,CNG,Gulshan-1,1,0,0,0,0
+303,d303,d303,UberX,Gulshan-2,1,0,0,0,0
+304,d304,d304,UberX,Banani,1,0,0,0,0
+305,d305,d305,Bike,Uttara-1,1,0,0,0,0
+306,d306,d306,CNG,Uttara-3,1,0,0,0,0
+307,d307,d307,UberX,Uttara-7,1,0,0,0,0
+308,d308,d308,UberX,Mirpur-1,1,0,0,0,0
+309,d309,d309,Bike,Mirpur-10,1,0,0,0,0
+310,d310,d310,CNG,Mirpur-12,1,0,0,0,0
+311,d311,d311,UberX,Mohammadpur,1,0,0,0,0
+312,d312,d312,UberX,Farmgate,1,0,0,0,0
+313,d313,d313,Bike,Karwan Bazar,1,0,0,0,0
+314,d314,d314,CNG,Shahbagh,1,0,0,0,0
+315,d315,d315,UberX,Ramna,1,0,0,0,0
+316,d316,d316,UberX,Motijheel,1,0,0,0,0
+317,d317,d317,Bike,Paltan,1,0,0,0,0
+318,d318,d318,CNG,Kamalapur,1,0,0,0,0
+319,d319,d319,UberX,Jatrabari,1,0,0,0,0
+320,d320,d320,UberX,Demra,1,0,0,0,0
+321,d321,d321,Bike,Gulshan-1,1,96.0219,1,0,0
+322,d322,d322,CNG,Rampura,1,0,0,0,0
+323,d323,d323,UberX,Malibagh,1,0,0,0,0
+324,d324,d324,UberX,Moghbazar,1,0,0,0,0
+325,d325,d325,Bike,New Market,1,859.624,4,4.75,4
+326,d326,d326,CNG,Agargaon,1,0,0,0,0
+327,d327,d327,UberX,Shewrapara,1,0,0,0,0
+328,d328,d328,UberX,Kazipara,1,0,0,0,0
+329,d329,d329,Bike,Pallabi,1,0,0,0,0
+330,d330,d330,CNG,Kallyanpur,1,0,0,0,0
+331,d331,d331,UberX,Gabtoli,1,0,0,0,0
+332,d332,d332,UberX,Hazaribagh,1,0,0,0,0
+333,d333,d333,Bike,Lalbagh,1,0,0,0,0
+334,d334,d334,CNG,Chawk Bazar,1,0,0,0,0
+335,d335,d335,UberX,Sadarghat,1,0,0,0,0
+336,d336,d336,UberX,Keraniganj,1,0,0,0,0
+337,d337,d337,Bike,Shyampur,1,0,0,0,0
+338,d338,d338,CNG,Postogola,1,0,0,0,0
+339,d339,d339,UberX,Wari,1,0,0,0,0
+340,d340,d340,UberX,Sutrapur,1,0,0,0,0
+341,d341,d341,Bike,Bangshal,1,0,0,0,0
+342,d342,d342,CNG,Islampur,1,0,0,0,0
+343,d343,d343,UberX,New Market,1,0,0,0,0
+344,d344,d344,UberX,Elephant Road,1,0,0,0,0
+345,d345,d345,Bike,Science Lab,1,0,0,0,0
+346,d346,d346,CNG,Green Road,1,0,0,0,0
+347,d347,d347,UberX,Panthapath,1,0,0,0,0
+348,d348,d348,UberX,Bashundhara,1,0,0,0,0
+349,d349,d349,Bike,Kuril,1,0,0,0,0
+350,d350,d350,CNG,Nikunja,1,0,0,0,0
+351,d351,d351,UberX,Airport,1,0,0,0,0
+352,d352,d352,UberX,Khilkhet,1,0,0,0,0
+353,d353,d353,Bike,Baridhara,1,0,0,0,0
+354,d354,d354,CNG,DOHS Mohakhali,1,0,0,0,0
+355,d355,d355,UberX,Mohakhali,1,0,0,0,0
+356,d356,d356,UberX,Nakhalpara,1,0,0,0,0
+357,d357,d357,Bike,Eskaton,1,0,0,0,0
+358,d358,d358,CNG,Hatirpool,1,0,0,0,0
+359,d359,d359,UberX,Kakrail,1,0,0,0,0
+360,d360,d360,UberX,Bijoynagar,1,0,0,0,0
+361,d361,d361,Bike,Dhanmondi,1,0,0,0,0
+362,d362,d362,CNG,Gulshan-1,1,0,0,0,0
+363,d363,d363,UberX,Gulshan-2,1,0,0,0,0
+364,d364,d364,UberX,Banani,1,0,0,0,0
+365,d365,d365,Bike,Uttara-1,1,0,0,0,0
+366,d366,d366,CNG,Uttara-3,1,0,0,0,0
+367,d367,d367,UberX,Uttara-7,1,0,0,0,0
+368,d368,d368,UberX,Mirpur-1,1,0,0,0,0
+369,d369,d369,Bike,Mirpur-10,1,0,0,0,0
+370,d370,d370,CNG,Mirpur-12,1,0,0,0,0
+371,d371,d371,UberX,Mohammadpur,1,0,0,0,0
+372,d372,d372,UberX,Farmgate,1,0,0,0,0
+373,d373,d373,Bike,Karwan Bazar,1,0,0,0,0
+374,d374,d374,CNG,Shahbagh,1,0,0,0,0
+375,d375,d375,UberX,Ramna,1,0,0,0,0
+376,d376,d376,UberX,Motijheel,1,0,0,0,0
+377,d377,d377,Bike,Paltan,1,0,0,0,0
+378,d378,d378,CNG,Kamalapur,1,0,0,0,0
+379,d379,d379,UberX,Jatrabari,1,0,0,0,0
+380,d380,d380,UberX,Demra,1,0,0,0,0
+381,d381,d381,Bike,Gulshan-1,1,77.8135,1,0,0
+382,d382,d382,CNG,Rampura,1,0,0,0,0
+383,d383,d383,UberX,Malibagh,1,0,0,0,0
+384,d384,d384,UberX,Moghbazar,1,0,0,0,0
+385,d385,d385,Bike,Dhanmondi,1,94.1016,1,4,1
+386,d386,d386,CNG,Agargaon,1,0,0,0,0
+387,d387,d387,UberX,Shewrapara,1,0,0,0,0
+388,d388,d388,UberX,Kazipara,1,0,0,0,0
+389,d389,d389,Bike,Pallabi,1,0,0,0,0
+390,d390,d390,CNG,Kallyanpur,1,0,0,0,0
+391,d391,d391,UberX,Gabtoli,1,0,0,0,0
+392,d392,d392,UberX,Hazaribagh,1,0,0,0,0
+393,d393,d393,Bike,Lalbagh,1,0,0,0,0
+394,d394,d394,CNG,Chawk Bazar,1,0,0,0,0
+395,d395,d395,UberX,Sadarghat,1,0,0,0,0
+396,d396,d396,UberX,Keraniganj,1,0,0,0,0
+397,d397,d397,Bike,Shyampur,1,0,0,0,0
+398,d398,d398,CNG,Postogola,1,0,0,0,0
+399,d399,d399,UberX,Wari,1,0,0,0,0
+400,d400,d400,UberX,Sutrapur,1,0,0,0,0
+401,d401,d401,Bike,Bangshal,1,0,0,0,0
+402,d402,d402,CNG,Islampur,1,0,0,0,0
+403,d403,d403,UberX,New Market,1,0,0,0,0
+404,d404,d404,UberX,Elephant Road,1,0,0,0,0
+405,d405,d405,Bike,Science Lab,1,0,0,0,0
+406,d406,d406,CNG,Green Road,1,0,0,0,0
+407,d407,d407,UberX,Panthapath,1,0,0,0,0
+408,d408,d408,UberX,Bashundhara,1,0,0,0,0
+409,d409,d409,Bike,Kuril,1,0,0,0,0
+410,d410,d410,CNG,Nikunja,1,0,0,0,0
+411,d411,d411,UberX,Airport,1,0,0,0,0
+412,d412,d412,UberX,Khilkhet,1,0,0,0,0
+413,d413,d413,Bike,Baridhara,1,0,0,0,0
+414,d414,d414,CNG,DOHS Mohakhali,1,0,0,0,0
+415,d415,d415,UberX,Mohakhali,1,0,0,0,0
+416,d416,d416,UberX,Nakhalpara,1,0,0,0,0
+417,d417,d417,Bike,Eskaton,1,0,0,0,0
+418,d418,d418,CNG,Hatirpool,1,0,0,0,0
+419,d419,d419,UberX,Kakrail,1,0,0,0,0
+420,d420,d420,UberX,Bijoynagar,1,0,0,0,0
+421,d421,d421,Bike,Dhanmondi,1,0,0,0,0
+422,d422,d422,CNG,Gulshan-1,1,0,0,0,0
+423,d423,d423,UberX,Gulshan-2,1,0,0,0,0
+424,d424,d424,UberX,Banani,1,0,0,0,0
+425,d425,d425,Bike,Uttara-1,1,0,0,0,0
+426,d426,d426,CNG,Uttara-3,1,0,0,0,0
+427,d427,d427,UberX,Uttara-7,1,0,0,0,0
+428,d428,d428,UberX,Mirpur-1,1,0,0,0,0
+429,d429,d429,Bike,Mirpur-10,1,0,0,0,0
+430,d430,d430,CNG,Mirpur-12,1,0,0,0,0
+431,d431,d431,UberX,Mohammadpur,1,0,0,0,0
+432,d432,d432,UberX,Farmgate,1,0,0,0,0
+433,d433,d433,Bike,Karwan Bazar,1,0,0,0,0
+434,d434,d434,CNG,Shahbagh,1,0,0,0,0
+435,d435,d435,UberX,Ramna,1,0,0,0,0
+436,d436,d436,UberX,Motijheel,1,0,0,0,0
+437,d437,d437,Bike,Paltan,1,0,0,0,0
+438,d438,d438,CNG,Kamalapur,1,0,0,0,0
+439,d439,d439,UberX,Jatrabari,1,0,0,0,0
+440,d440,d440,UberX,Demra,1,0,0,0,0
+441,d441,d441,Bike,Badda,1,0,0,0,0
+442,d442,d442,CNG,Rampura,1,0,0,0,0
+443,d443,d443,UberX,Malibagh,1,0,0,0,0
+444,d444,d444,UberX,Moghbazar,1,0,0,0,0
+445,d445,d445,Bike,Dhanmondi,1,95.325,1,5,1
+446,d446,d446,CNG,Agargaon,1,0,0,0,0
+447,d447,d447,UberX,Shewrapara,1,0,0,0,0
+448,d448,d448,UberX,Kazipara,1,0,0,0,0
+449,d449,d449,Bike,Pallabi,1,0,0,0,0
+450,d450,d450,CNG,Kallyanpur,1,0,0,0,0
+451,d451,d451,UberX,Gabtoli,1,0,0,0,0
+452,d452,d452,UberX,Hazaribagh,1,0,0,0,0
+453,d453,d453,Bike,Lalbagh,1,0,0,0,0
+454,d454,d454,CNG,Chawk Bazar,1,0,0,0,0
+455,d455,d455,UberX,Sadarghat,1,0,0,0,0
+456,d456,d456,UberX,Keraniganj,1,0,0,0,0
+457,d457,d457,Bike,Shyampur,1,0,0,0,0
+458,d458,d458,CNG,Postogola,1,0,0,0,0
+459,d459,d459,UberX,Wari,1,0,0,0,0
+460,d460,d460,UberX,Sutrapur,1,0,0,0,0
+461,d461,d461,Bike,Bangshal,1,0,0,0,0
+462,d462,d462,CNG,Islampur,1,0,0,0,0
+463,d463,d463,UberX,New Market,1,0,0,0,0
+464,d464,d464,UberX,Elephant Road,1,0,0,0,0
+465,d465,d465,Bike,Science Lab,1,0,0,0,0
+466,d466,d466,CNG,Green Road,1,0,0,0,0
+467,d467,d467,UberX,Panthapath,1,0,0,0,0
+468,d468,d468,UberX,Bashundhara,1,0,0,0,0
+469,d469,d469,Bike,Kuril,1,0,0,0,0
+470,d470,d470,CNG,Nikunja,1,0,0,0,0
+471,d471,d471,UberX,Airport,1,0,0,0,0
+472,d472,d472,UberX,Khilkhet,1,0,0,0,0
+473,d473,d473,Bike,Baridhara,1,0,0,0,0
+474,d474,d474,CNG,DOHS Mohakhali,1,0,0,0,0
+475,d475,d475,UberX,Mohakhali,1,0,0,0,0
+476,d476,d476,UberX,Nakhalpara,1,0,0,0,0
+477,d477,d477,Bike,Eskaton,1,0,0,0,0
+478,d478,d478,CNG,Hatirpool,1,0,0,0,0
+479,d479,d479,UberX,Kakrail,1,0,0,0,0
+480,d480,d480,UberX,Bijoynagar,1,0,0,0,0
+481,d481,d481,Bike,Dhanmondi,1,0,0,0,0
+482,d482,d482,CNG,Gulshan-1,1,0,0,0,0
+483,d483,d483,UberX,Gulshan-2,1,0,0,0,0
+484,d484,d484,UberX,Banani,1,0,0,0,0
+485,d485,d485,Bike,Uttara-1,1,0,0,0,0
+486,d486,d486,CNG,Uttara-3,1,0,0,0,0
+487,d487,d487,UberX,Uttara-7,1,0,0,0,0
+488,d488,d488,UberX,Mirpur-1,1,0,0,0,0
+489,d489,d489,Bike,Mirpur-10,1,0,0,0,0
+490,d490,d490,CNG,Mirpur-12,1,0,0,0,0
+491,d491,d491,UberX,Mohammadpur,1,0,0,0,0
+492,d492,d492,UberX,Farmgate,1,0,0,0,0
+493,d493,d493,Bike,Karwan Bazar,1,0,0,0,0
+494,d494,d494,CNG,Shahbagh,1,0,0,0,0
+495,d495,d495,UberX,Ramna,1,0,0,0,0
+496,d496,d496,UberX,Motijheel,1,0,0,0,0
+497,d497,d497,Bike,Paltan,1,0,0,0,0
+498,d498,d498,CNG,Kamalapur,1,0,0,0,0
+499,d499,d499,UberX,Jatrabari,1,0,0,0,0
+500,d500,d500,UberX,Demra,1,0,0,0,0
+501,d501,d501,Bike,Badda,1,0,0,0,0
+502,d502,d502,CNG,Rampura,1,0,0,0,0
+503,d503,d503,UberX,Malibagh,1,0,0,0,0
+504,d504,d504,UberX,Moghbazar,1,0,0,0,0
+505,d505,d505,Bike,Dhanmondi,1,95.325,1,4,1
+506,d506,d506,CNG,Agargaon,1,0,0,0,0
+507,d507,d507,UberX,Shewrapara,1,0,0,0,0
+508,d508,d508,UberX,Kazipara,1,0,0,0,0
+509,d509,d509,Bike,Pallabi,1,0,0,0,0
+510,d510,d510,CNG,Kallyanpur,1,0,0,0,0
+511,d511,d511,UberX,Gabtoli,1,0,0,0,0
+512,d512,d512,UberX,Hazaribagh,1,0,0,0,0
+513,d513,d513,Bike,Lalbagh,1,0,0,0,0
+514,d514,d514,CNG,Chawk Bazar,1,0,0,0,0
+515,d515,d515,UberX,Sadarghat,1,0,0,0,0
+516,d516,d516,UberX,Keraniganj,1,0,0,0,0
+517,d517,d517,Bike,Shyampur,1,0,0,0,0
+518,d518,d518,CNG,Postogola,1,0,0,0,0
+519,d519,d519,UberX,Wari,1,0,0,0,0
+520,d520,d520,UberX,Sutrapur,1,0,0,0,0
+521,d521,d521,Bike,Bangshal,1,0,0,0,0
+522,d522,d522,CNG,Islampur,1,0,0,0,0
+523,d523,d523,UberX,New Market,1,0,0,0,0
+524,d524,d524,UberX,Elephant Road,1,0,0,0,0
+525,d525,d525,Bike,Science Lab,1,0,0,0,0
+526,d526,d526,CNG,Green Road,1,0,0,0,0
+527,d527,d527,UberX,Panthapath,1,0,0,0,0
+528,d528,d528,UberX,Bashundhara,1,0,0,0,0
+529,d529,d529,Bike,Kuril,1,0,0,0,0
+530,d530,d530,CNG,Nikunja,1,0,0,0,0
+531,d531,d531,UberX,Airport,1,0,0,0,0
+532,d532,d532,UberX,Khilkhet,1,0,0,0,0
+533,d533,d533,Bike,Baridhara,1,0,0,0,0
+534,d534,d534,CNG,DOHS Mohakhali,1,0,0,0,0
+535,d535,d535,UberX,Mohakhali,1,0,0,0,0
+536,d536,d536,UberX,Nakhalpara,1,0,0,0,0
+537,d537,d537,Bike,Eskaton,1,0,0,0,0
+538,d538,d538,CNG,Hatirpool,1,0,0,0,0
+539,d539,d539,UberX,Kakrail,1,0,0,0,0
+540,d540,d540,UberX,Bijoynagar,1,0,0,0,0
+541,d541,d541,Bike,Dhanmondi,1,0,0,0,0
+542,d542,d542,CNG,Gulshan-1,1,0,0,0,0
+543,d543,d543,UberX,Gulshan-2,1,0,0,0,0
+544,d544,d544,UberX,Banani,1,0,0,0,0
+545,d545,d545,Bike,Uttara-1,1,0,0,0,0
+546,d546,d546,CNG,Uttara-3,1,0,0,0,0
+547,d547,d547,UberX,Uttara-7,1,0,0,0,0
+548,d548,d548,UberX,Mirpur-1,1,0,0,0,0
+549,d549,d549,Bike,Mirpur-10,1,0,0,0,0
+550,d550,d550,CNG,Mirpur-12,1,0,0,0,0
+551,d551,d551,UberX,Mohammadpur,1,0,0,0,0
+552,d552,d552,UberX,Farmgate,1,0,0,0,0
+553,d553,d553,Bike,Karwan Bazar,1,0,0,0,0
+554,d554,d554,CNG,Shahbagh,1,0,0,0,0
+555,d555,d555,UberX,Ramna,1,0,0,0,0
+556,d556,d556,UberX,Motijheel,1,0,0,0,0
+557,d557,d557,Bike,Paltan,1,0,0,0,0
+558,d558,d558,CNG,Kamalapur,1,0,0,0,0
+559,d559,d559,UberX,Jatrabari,1,0,0,0,0
+560,d560,d560,UberX,Demra,1,0,0,0,0
+561,d561,d561,Bike,Badda,1,0,0,0,0
+562,d562,d562,CNG,Rampura,1,0,0,0,0
+563,d563,d563,UberX,Malibagh,1,0,0,0,0
+564,d564,d564,UberX,Moghbazar,1,0,0,0,0
+565,d565,d565,Bike,Badda,1,154.557,1,1,1
+566,d566,d566,CNG,Agargaon,1,0,0,0,0
+567,d567,d567,UberX,Shewrapara,1,0,0,0,0
+568,d568,d568,UberX,Kazipara,1,0,0,0,0
+569,d569,d569,Bike,Pallabi,1,0,0,0,0
+570,d570,d570,CNG,Kallyanpur,1,0,0,0,0
+571,d571,d571,UberX,Gabtoli,1,0,0,0,0
+572,d572,d572,UberX,Hazaribagh,1,0,0,0,0
+573,d573,d573,Bike,Lalbagh,1,0,0,0,0
+574,d574,d574,CNG,Chawk Bazar,1,0,0,0,0
+575,d575,d575,UberX,Sadarghat,1,0,0,0,0
+576,d576,d576,UberX,Keraniganj,1,0,0,0,0
+577,d577,d577,Bike,Shyampur,1,0,0,0,0
+578,d578,d578,CNG,Postogola,1,0,0,0,0
+579,d579,d579,UberX,Wari,1,0,0,0,0
+580,d580,d580,UberX,Sutrapur,1,0,0,0,0
+581,d581,d581,Bike,Bangshal,1,0,0,0,0
+582,d582,d582,CNG,Islampur,1,0,0,0,0
+583,d583,d583,UberX,New Market,1,0,0,0,0
+584,d584,d584,UberX,Elephant Road,1,0,0,0,0
+585,d585,d585,Bike,Science Lab,1,0,0,0,0
+586,d586,d586,CNG,Green Road,1,0,0,0,0
+587,d587,d587,UberX,Panthapath,1,0,0,0,0
+588,d588,d588,UberX,Bashundhara,1,0,0,0,0
+589,d589,d589,Bike,Kuril,1,0,0,0,0
+590,d590,d590,CNG,Nikunja,1,0,0,0,0
+591,d591,d591,UberX,Airport,1,0,0,0,0
+592,d592,d592,UberX,Khilkhet,1,0,0,0,0
+593,d593,d593,Bike,Baridhara,1,0,0,0,0
+594,d594,d594,CNG,DOHS Mohakhali,1,0,0,0,0
+595,d595,d595,UberX,Mohakhali,1,0,0,0,0
+596,d596,d596,UberX,Nakhalpara,1,0,0,0,0
+597,d597,d597,Bike,Eskaton,1,0,0,0,0
+598,d598,d598,CNG,Hatirpool,1,0,0,0,0
+599,d599,d599,UberX,Kakrail,1,0,0,0,0
+600,d600,d600,UberX,Bijoynagar,1,0,0,0,0
+601,d601,d601,Bike,Dhanmondi,1,0,0,0,0
+602,d602,d602,CNG,Gulshan-1,1,0,0,0,0
+603,d603,d603,UberX,Gulshan-2,1,0,0,0,0
+604,d604,d604,UberX,Banani,1,0,0,0,0
+605,d605,d605,Bike,Uttara-1,1,0,0,0,0
+606,d606,d606,CNG,Uttara-3,1,0,0,0,0
+607,d607,d607,UberX,Uttara-7,1,0,0,0,0
+608,d608,d608,UberX,Mirpur-1,1,0,0,0,0
+609,d609,d609,Bike,Mirpur-10,1,0,0,0,0
+610,d610,d610,CNG,Mirpur-12,1,0,0,0,0
+611,d611,d611,UberX,Mohammadpur,1,0,0,0,0
+612,d612,d612,UberX,Farmgate,1,0,0,0,0
+613,d613,d613,Bike,Karwan Bazar,1,0,0,0,0
+614,d614,d614,CNG,Shahbagh,1,0,0,0,0
+615,d615,d615,UberX,Ramna,1,0,0,0,0
+616,d616,d616,UberX,Motijheel,1,0,0,0,0
+617,d617,d617,Bike,Paltan,1,0,0,0,0
+618,d618,d618,CNG,Kamalapur,1,0,0,0,0
+619,d619,d619,UberX,Jatrabari,1,0,0,0,0
+620,d620,d620,UberX,Demra,1,0,0,0,0
+621,d621,d621,Bike,Badda,1,0,0,0,0
+622,d622,d622,CNG,Rampura,1,0,0,0,0
+623,d623,d623,UberX,Malibagh,1,0,0,0,0
+624,d624,d624,UberX,Moghbazar,1,0,0,0,0
+625,d625,d625,Bike,Tejgaon,1,0,0,0,0
+626,d626,d626,CNG,Agargaon,1,0,0,0,0
+627,d627,d627,UberX,Shewrapara,1,0,0,0,0
+628,d628,d628,UberX,Kazipara,1,0,0,0,0
+629,d629,d629,Bike,Pallabi,1,0,0,0,0
+630,d630,d630,CNG,Kallyanpur,1,0,0,0,0
+631,d631,d631,UberX,Gabtoli,1,0,0,0,0
+632,d632,d632,UberX,Hazaribagh,1,0,0,0,0
+633,d633,d633,Bike,Lalbagh,1,0,0,0,0
+634,d634,d634,CNG,Chawk Bazar,1,0,0,0,0
+635,d635,d635,UberX,Sadarghat,1,0,0,0,0
+636,d636,d636,UberX,Keraniganj,1,0,0,0,0
+637,d637,d637,Bike,Shyampur,1,0,0,0,0
+638,d638,d638,CNG,Postogola,1,0,0,0,0
+639,d639,d639,UberX,Wari,1,0,0,0,0
+640,d640,d640,UberX,Sutrapur,1,0,0,0,0
+641,d641,d641,Bike,Bangshal,1,0,0,0,0
+642,d642,d642,CNG,Islampur,1,0,0,0,0
+643,d643,d643,UberX,New Market,1,0,0,0,0
+644,d644,d644,UberX,Elephant Road,1,0,0,0,0
+645,d645,d645,Bike,Science Lab,1,0,0,0,0
+646,d646,d646,CNG,Green Road,1,0,0,0,0
+647,d647,d647,UberX,Panthapath,1,0,0,0,0
+648,d648,d648,UberX,Bashundhara,1,0,0,0,0
+649,d649,d649,Bike,Kuril,1,0,0,0,0
+650,d650,d650,CNG,Nikunja,1,0,0,0,0
+651,d651,d651,UberX,Airport,1,0,0,0,0
+652,d652,d652,UberX,Khilkhet,1,0,0,0,0
+653,d653,d653,Bike,Baridhara,1,0,0,0,0
+654,d654,d654,CNG,DOHS Mohakhali,1,0,0,0,0
+655,d655,d655,UberX,Mohakhali,1,0,0,0,0
+656,d656,d656,UberX,Nakhalpara,1,0,0,0,0
+657,d657,d657,Bike,Eskaton,1,0,0,0,0
+658,d658,d658,CNG,Hatirpool,1,0,0,0,0
+659,d659,d659,UberX,Kakrail,1,0,0,0,0
+660,d660,d660,UberX,Bijoynagar,1,0,0,0,0
+661,d661,d661,Bike,Dhanmondi,1,0,0,0,0
+662,d662,d662,CNG,Gulshan-1,1,0,0,0,0
+663,d663,d663,UberX,Gulshan-2,1,0,0,0,0
+664,d664,d664,UberX,Banani,1,0,0,0,0
+665,d665,d665,Bike,Uttara-1,1,0,0,0,0
+666,d666,d666,CNG,Kallyanpur,1,0,0,0,0
+667,d667,d667,UberX,Uttara-7,1,0,0,0,0
+668,d668,d668,UberX,Mirpur-1,1,0,0,0,0
+669,d669,d669,Bike,Mirpur-10,1,0,0,0,0
+670,d670,d670,CNG,Mirpur-12,1,0,0,0,0
+671,d671,d671,UberX,Mohammadpur,1,0,0,0,0
+672,d672,d672,UberX,Farmgate,1,0,0,0,0
+673,d673,d673,Bike,Karwan Bazar,1,0,0,0,0
+674,d674,d674,CNG,Shahbagh,1,0,0,0,0
+675,d675,d675,UberX,Ramna,1,0,0,0,0
+676,d676,d676,UberX,Motijheel,1,0,0,0,0
+677,d677,d677,Bike,Paltan,1,0,0,0,0
+678,d678,d678,CNG,Kamalapur,1,0,0,0,0
+679,d679,d679,UberX,Jatrabari,1,0,0,0,0
+680,d680,d680,UberX,Demra,1,0,0,0,0
+681,d681,d681,Bike,Badda,1,0,0,0,0
+682,d682,d682,CNG,Rampura,1,0,0,0,0
+683,d683,d683,UberX,Malibagh,1,0,0,0,0
+684,d684,d684,UberX,Moghbazar,1,0,0,0,0
+685,d685,d685,Bike,Tejgaon,1,0,0,0,0
+686,d686,d686,CNG,Agargaon,1,0,0,0,0
+687,d687,d687,UberX,Shewrapara,1,0,0,0,0
+688,d688,d688,UberX,Kazipara,1,0,0,0,0
+689,d689,d689,Bike,Pallabi,1,0,0,0,0
+690,d690,d690,CNG,Kallyanpur,1,0,0,0,0
+691,d691,d691,UberX,Gabtoli,1,0,0,0,0
+692,d692,d692,UberX,Hazaribagh,1,0,0,0,0
+693,d693,d693,Bike,Lalbagh,1,0,0,0,0
+694,d694,d694,CNG,Chawk Bazar,1,0,0,0,0
+695,d695,d695,UberX,Sadarghat,1,0,0,0,0
+696,d696,d696,UberX,Keraniganj,1,0,0,0,0
+697,d697,d697,Bike,Shyampur,1,0,0,0,0
+698,d698,d698,CNG,Postogola,1,0,0,0,0
+699,d699,d699,UberX,Wari,1,0,0,0,0
+700,d700,d700,UberX,Sutrapur,1,0,0,0,0
+701,d701,d701,Bike,Bangshal,1,0,0,0,0
+702,d702,d702,CNG,Islampur,1,0,0,0,0
+703,d703,d703,UberX,New Market,1,0,0,0,0
+704,d704,d704,UberX,Elephant Road,1,0,0,0,0
+705,d705,d705,Bike,Science Lab,1,0,0,0,0
+706,d706,d706,CNG,Green Road,1,0,0,0,0
+707,d707,d707,UberX,Panthapath,1,0,0,0,0
+708,d708,d708,UberX,Bashundhara,1,0,0,0,0
+709,d709,d709,Bike,Kuril,1,0,0,0,0
+710,d710,d710,CNG,Nikunja,1,0,0,0,0
+711,d711,d711,UberX,Airport,1,0,0,0,0
+712,d712,d712,UberX,Khilkhet,1,0,0,0,0
+713,d713,d713,Bike,Baridhara,1,0,0,0,0
+714,d714,d714,CNG,DOHS Mohakhali,1,0,0,0,0
+715,d715,d715,UberX,Mohakhali,1,0,0,0,0
+716,d716,d716,UberX,Nakhalpara,1,0,0,0,0
+717,d717,d717,Bike,Eskaton,1,0,0,0,0
+718,d718,d718,CNG,Hatirpool,1,0,0,0,0
+719,d719,d719,UberX,Kakrail,1,0,0,0,0
+720,d720,d720,UberX,Bijoynagar,1,0,0,0,0
+721,d721,d721,Bike,Dhanmondi,1,0,0,0,0
+722,d722,d722,CNG,Gulshan-1,1,0,0,0,0
+723,d723,d723,UberX,Gulshan-2,1,0,0,0,0
+724,d724,d724,UberX,Banani,1,0,0,0,0
+725,d725,d725,Bike,Uttara-1,1,0,0,0,0
+726,d726,d726,CNG,Uttara-3,1,0,0,0,0
+727,d727,d727,UberX,Uttara-7,1,0,0,0,0
+728,d728,d728,UberX,Mirpur-1,1,0,0,0,0
+729,d729,d729,Bike,Mirpur-10,1,0,0,0,0
+730,d730,d730,CNG,Mirpur-12,1,0,0,0,0
+731,d731,d731,UberX,Mohammadpur,1,0,0,0,0
+732,d732,d732,UberX,Farmgate,1,0,0,0,0
+733,d733,d733,Bike,Karwan Bazar,1,0,0,0,0
+734,d734,d734,CNG,Shahbagh,1,0,0,0,0
+735,d735,d735,UberX,Ramna,1,0,0,0,0
+736,d736,d736,UberX,Motijheel,1,0,0,0,0
+737,d737,d737,Bike,Paltan,1,0,0,0,0
+738,d738,d738,CNG,Kamalapur,1,0,0,0,0
+739,d739,d739,UberX,Jatrabari,1,0,0,0,0
+740,d740,d740,UberX,Demra,1,0,0,0,0
+741,d741,d741,Bike,Badda,1,0,0,0,0
+742,d742,d742,CNG,Rampura,1,0,0,0,0
+743,d743,d743,UberX,Malibagh,1,0,0,0,0
+744,d744,d744,UberX,Moghbazar,1,0,0,0,0
+745,d745,d745,Bike,Tejgaon,1,0,0,0,0
+746,d746,d746,CNG,Agargaon,1,0,0,0,0
+747,d747,d747,UberX,Shewrapara,1,0,0,0,0
+748,d748,d748,UberX,Kazipara,1,0,0,0,0
+749,d749,d749,Bike,Pallabi,1,0,0,0,0
+750,d750,d750,CNG,Kallyanpur,1,0,0,0,0
+751,d751,d751,UberX,Gabtoli,1,0,0,0,0
+752,d752,d752,UberX,Hazaribagh,1,0,0,0,0
+753,d753,d753,Bike,Lalbagh,1,0,0,0,0
+754,d754,d754,CNG,Chawk Bazar,1,0,0,0,0
+755,d755,d755,UberX,Sadarghat,1,0,0,0,0
+756,d756,d756,UberX,Keraniganj,1,0,0,0,0
+757,d757,d757,Bike,Shyampur,1,0,0,0,0
+758,d758,d758,CNG,Postogola,1,0,0,0,0
+759,d759,d759,UberX,Wari,1,0,0,0,0
+760,d760,d760,UberX,Sutrapur,1,0,0,0,0
+761,d761,d761,Bike,Bangshal,1,0,0,0,0
+762,d762,d762,CNG,Islampur,1,0,0,0,0
+763,d763,d763,UberX,New Market,1,0,0,0,0
+764,d764,d764,UberX,Elephant Road,1,0,0,0,0
+765,d765,d765,Bike,Science Lab,1,0,0,0,0
+766,d766,d766,CNG,Green Road,1,0,0,0,0
+767,d767,d767,UberX,Panthapath,1,0,0,0,0
+768,d768,d768,UberX,Bashundhara,1,0,0,0,0
+769,d769,d769,Bike,Kuril,1,0,0,0,0
+770,d770,d770,CNG,Nikunja,1,0,0,0,0
+771,d771,d771,UberX,Airport,1,0,0,0,0
+772,d772,d772,UberX,Khilkhet,1,0,0,0,0
+773,d773,d773,Bike,Baridhara,1,0,0,0,0
+774,d774,d774,CNG,DOHS Mohakhali,1,0,0,0,0
+775,d775,d775,UberX,Mohakhali,1,0,0,0,0
+776,d776,d776,UberX,Nakhalpara,1,0,0,0,0
+777,d777,d777,Bike,Eskaton,1,0,0,0,0
+778,d778,d778,CNG,Hatirpool,1,0,0,0,0
+779,d779,d779,UberX,Kakrail,1,0,0,0,0
+780,d780,d780,UberX,Bijoynagar,1,0,0,0,0
+781,d781,d781,Bike,Dhanmondi,1,0,0,0,0
+782,d782,d782,CNG,Gulshan-1,1,0,0,0,0
+783,d783,d783,UberX,Gulshan-2,1,0,0,0,0
+784,d784,d784,UberX,Banani,1,0,0,0,0
+785,d785,d785,Bike,Uttara-1,1,0,0,0,0
+786,d786,d786,CNG,Uttara-3,1,0,0,0,0
+787,d787,d787,UberX,Uttara-7,1,0,0,0,0
+788,d788,d788,UberX,Mirpur-1,1,0,0,0,0
+789,d789,d789,Bike,Mirpur-10,1,0,0,0,0
+790,d790,d790,CNG,Mirpur-12,1,0,0,0,0
+791,d791,d791,UberX,Mohammadpur,1,0,0,0,0
+792,d792,d792,UberX,Farmgate,1,0,0,0,0
+793,d793,d793,Bike,Karwan Bazar,1,0,0,0,0
+794,d794,d794,CNG,Shahbagh,1,0,0,0,0
+795,d795,d795,UberX,Ramna,1,0,0,0,0
+796,d796,d796,UberX,Motijheel,1,0,0,0,0
+797,d797,d797,Bike,Paltan,1,0,0,0,0
+798,d798,d798,CNG,Kamalapur,1,0,0,0,0
+799,d799,d799,UberX,Jatrabari,1,0,0,0,0
+800,d800,d800,UberX,Demra,1,0,0,0,0
+801,d801,d801,Bike,Badda,1,0,0,0,0
+802,d802,d802,CNG,Rampura,1,0,0,0,0
+803,d803,d803,UberX,Malibagh,1,0,0,0,0
+804,d804,d804,UberX,Moghbazar,1,0,0,0,0
+805,d805,d805,Bike,Tejgaon,1,0,0,0,0
+806,d806,d806,CNG,Agargaon,1,0,0,0,0
+807,d807,d807,UberX,Shewrapara,1,0,0,0,0
+808,d808,d808,UberX,Kazipara,1,0,0,0,0
+809,d809,d809,Bike,Pallabi,1,0,0,0,0
+810,d810,d810,CNG,Kallyanpur,1,0,0,0,0
+811,d811,d811,UberX,Gabtoli,1,0,0,0,0
+812,d812,d812,UberX,Hazaribagh,1,0,0,0,0
+813,d813,d813,Bike,Lalbagh,1,0,0,0,0
+814,d814,d814,CNG,Chawk Bazar,1,0,0,0,0
+815,d815,d815,UberX,Sadarghat,1,0,0,0,0
+816,d816,d816,UberX,Keraniganj,1,0,0,0,0
+817,d817,d817,Bike,Shyampur,1,0,0,0,0
+818,d818,d818,CNG,Postogola,1,0,0,0,0
+819,d819,d819,UberX,Wari,1,0,0,0,0
+820,d820,d820,UberX,Sutrapur,1,0,0,0,0
+821,d821,d821,Bike,Bangshal,1,0,0,0,0
+822,d822,d822,CNG,Islampur,1,0,0,0,0
+823,d823,d823,UberX,New Market,1,0,0,0,0
+824,d824,d824,UberX,Elephant Road,1,0,0,0,0
+825,d825,d825,Bike,Science Lab,1,0,0,0,0
+826,d826,d826,CNG,Green Road,1,0,0,0,0
+827,d827,d827,UberX,Panthapath,1,0,0,0,0
+828,d828,d828,UberX,Bashundhara,1,0,0,0,0
+829,d829,d829,Bike,Kuril,1,0,0,0,0
+830,d830,d830,CNG,Nikunja,1,0,0,0,0
+831,d831,d831,UberX,Airport,1,0,0,0,0
+832,d832,d832,UberX,Khilkhet,1,0,0,0,0
+833,d833,d833,Bike,Baridhara,1,0,0,0,0
+834,d834,d834,CNG,DOHS Mohakhali,1,0,0,0,0
+835,d835,d835,UberX,Mohakhali,1,0,0,0,0
+836,d836,d836,UberX,Nakhalpara,1,0,0,0,0
+837,d837,d837,Bike,Eskaton,1,0,0,0,0
+838,d838,d838,CNG,Hatirpool,1,0,0,0,0
+839,d839,d839,UberX,Kakrail,1,0,0,0,0
+840,d840,d840,UberX,Bijoynagar,1,0,0,0,0
+841,d841,d841,Bike,Dhanmondi,1,0,0,0,0
+842,d842,d842,CNG,Gulshan-1,1,0,0,0,0
+843,d843,d843,UberX,Gulshan-2,1,0,0,0,0
+844,d844,d844,UberX,Banani,1,0,0,0,0
+845,d845,d845,Bike,Uttara-1,1,0,0,0,0
+846,d846,d846,CNG,Uttara-3,1,0,0,0,0
+847,d847,d847,UberX,Uttara-7,1,0,0,0,0
+848,d848,d848,UberX,Mirpur-1,1,0,0,0,0
+849,d849,d849,Bike,Mirpur-10,1,0,0,0,0
+850,d850,d850,CNG,Mirpur-12,1,0,0,0,0
+851,d851,d851,UberX,Mohammadpur,1,0,0,0,0
+852,d852,d852,UberX,Farmgate,1,0,0,0,0
+853,d853,d853,Bike,Karwan Bazar,1,0,0,0,0
+854,d854,d854,CNG,Shahbagh,1,0,0,0,0
+855,d855,d855,UberX,Ramna,1,0,0,0,0
+856,d856,d856,UberX,Motijheel,1,0,0,0,0
+857,d857,d857,Bike,Paltan,1,0,0,0,0
+858,d858,d858,CNG,Kamalapur,1,0,0,0,0
+859,d859,d859,UberX,Jatrabari,1,0,0,0,0
+860,d860,d860,UberX,Demra,1,0,0,0,0
+861,d861,d861,Bike,Badda,1,0,0,0,0
+862,d862,d862,CNG,Rampura,1,0,0,0,0
+863,d863,d863,UberX,Malibagh,1,0,0,0,0
+864,d864,d864,UberX,Moghbazar,1,0,0,0,0
+865,d865,d865,Bike,Tejgaon,1,0,0,0,0
+866,d866,d866,CNG,Agargaon,1,0,0,0,0
+867,d867,d867,UberX,Shewrapara,1,0,0,0,0
+868,d868,d868,UberX,Kazipara,1,0,0,0,0
+869,d869,d869,Bike,Pallabi,1,0,0,0,0
+870,d870,d870,CNG,Kallyanpur,1,0,0,0,0
+871,d871,d871,UberX,Gabtoli,1,0,0,0,0
+872,d872,d872,UberX,Hazaribagh,1,0,0,0,0
+873,d873,d873,Bike,Lalbagh,1,0,0,0,0
+874,d874,d874,CNG,Chawk Bazar,1,0,0,0,0
+875,d875,d875,UberX,Sadarghat,1,0,0,0,0
+876,d876,d876,UberX,Keraniganj,1,0,0,0,0
+877,d877,d877,Bike,Shyampur,1,0,0,0,0
+878,d878,d878,CNG,Postogola,1,0,0,0,0
+879,d879,d879,UberX,Wari,1,0,0,0,0
+880,d880,d880,UberX,Sutrapur,1,0,0,0,0
+881,d881,d881,Bike,Bangshal,1,0,0,0,0
+882,d882,d882,CNG,Islampur,1,0,0,0,0
+883,d883,d883,UberX,New Market,1,0,0,0,0
+884,d884,d884,UberX,Elephant Road,1,0,0,0,0
+885,d885,d885,Bike,Science Lab,1,0,0,0,0
+886,d886,d886,CNG,Green Road,1,0,0,0,0
+887,d887,d887,UberX,Panthapath,1,0,0,0,0
+888,d888,d888,UberX,Bashundhara,1,0,0,0,0
+889,d889,d889,Bike,Kuril,1,0,0,0,0
+890,d890,d890,CNG,Nikunja,1,0,0,0,0
+891,d891,d891,UberX,Airport,1,0,0,0,0
+892,d892,d892,UberX,Khilkhet,1,0,0,0,0
+893,d893,d893,Bike,Baridhara,1,0,0,0,0
+894,d894,d894,CNG,DOHS Mohakhali,1,0,0,0,0
+895,d895,d895,UberX,Mohakhali,1,0,0,0,0
+896,d896,d896,UberX,Nakhalpara,1,0,0,0,0
+897,d897,d897,Bike,Eskaton,1,0,0,0,0
+898,d898,d898,CNG,Hatirpool,1,0,0,0,0
+899,d899,d899,UberX,Kakrail,1,0,0,0,0
+900,d900,d900,UberX,Bijoynagar,1,0,0,0,0
+901,d901,d901,Bike,Dhanmondi,1,0,0,0,0
+902,d902,d902,CNG,Gulshan-1,1,0,0,0,0
+903,d903,d903,UberX,Gulshan-2,1,0,0,0,0
+904,d904,d904,UberX,Banani,1,0,0,0,0
+905,d905,d905,Bike,Uttara-1,1,0,0,0,0
+906,d906,d906,CNG,Uttara-3,1,0,0,0,0
+907,d907,d907,UberX,Uttara-7,1,0,0,0,0
+908,d908,d908,UberX,Mirpur-1,1,0,0,0,0
+909,d909,d909,Bike,Mirpur-10,1,0,0,0,0
+910,d910,d910,CNG,Mirpur-12,1,0,0,0,0
+911,d911,d911,UberX,Mohammadpur,1,0,0,0,0
+912,d912,d912,UberX,Farmgate,1,0,0,0,0
+913,d913,d913,Bike,Karwan Bazar,1,0,0,0,0
+914,d914,d914,CNG,Shahbagh,1,0,0,0,0
+915,d915,d915,UberX,Ramna,1,0,0,0,0
+916,d916,d916,UberX,Motijheel,1,0,0,0,0
+917,d917,d917,Bike,Paltan,1,0,0,0,0
+918,d918,d918,CNG,Kamalapur,1,0,0,0,0
+919,d919,d919,UberX,Jatrabari,1,0,0,0,0
+920,d920,d920,UberX,Demra,1,0,0,0,0
+921,d921,d921,Bike,Badda,1,0,0,0,0
+922,d922,d922,CNG,Rampura,1,0,0,0,0
+923,d923,d923,UberX,Malibagh,1,0,0,0,0
+924,d924,d924,UberX,Moghbazar,1,0,0,0,0
+925,d925,d925,Bike,Tejgaon,1,0,0,0,0
+926,d926,d926,CNG,Agargaon,1,0,0,0,0
+927,d927,d927,UberX,Shewrapara,1,0,0,0,0
+928,d928,d928,UberX,Kazipara,1,0,0,0,0
+929,d929,d929,Bike,Pallabi,1,0,0,0,0
+930,d930,d930,CNG,Kallyanpur,1,0,0,0,0
+931,d931,d931,UberX,Gabtoli,1,0,0,0,0
+932,d932,d932,UberX,Hazaribagh,1,0,0,0,0
+933,d933,d933,Bike,Lalbagh,1,0,0,0,0
+934,d934,d934,CNG,Chawk Bazar,1,0,0,0,0
+935,d935,d935,UberX,Sadarghat,1,0,0,0,0
+936,d936,d936,UberX,Keraniganj,1,0,0,0,0
+937,d937,d937,Bike,Shyampur,1,0,0,0,0
+938,d938,d938,CNG,Postogola,1,0,0,0,0
+939,d939,d939,UberX,Wari,1,0,0,0,0
+940,d940,d940,UberX,Sutrapur,1,0,0,0,0
+941,d941,d941,Bike,Bangshal,1,0,0,0,0
+942,d942,d942,CNG,Islampur,1,0,0,0,0
+943,d943,d943,UberX,New Market,1,0,0,0,0
+944,d944,d944,UberX,Elephant Road,1,0,0,0,0
+945,d945,d945,Bike,Science Lab,1,0,0,0,0
+946,d946,d946,CNG,Green Road,1,0,0,0,0
+947,d947,d947,UberX,Panthapath,1,0,0,0,0
+948,d948,d948,UberX,Bashundhara,1,0,0,0,0
+949,d949,d949,Bike,Kuril,1,0,0,0,0
+950,d950,d950,CNG,Nikunja,1,0,0,0,0
+951,d951,d951,UberX,Airport,1,0,0,0,0
+952,d952,d952,UberX,Khilkhet,1,0,0,0,0
+953,d953,d953,Bike,Baridhara,1,0,0,0,0
+954,d954,d954,CNG,DOHS Mohakhali,1,0,0,0,0
+955,d955,d955,UberX,Mohakhali,1,0,0,0,0
+956,d956,d956,UberX,Nakhalpara,1,0,0,0,0
+957,d957,d957,Bike,Eskaton,1,0,0,0,0
+958,d958,d958,CNG,Hatirpool,1,0,0,0,0
+959,d959,d959,UberX,Kakrail,1,0,0,0,0
+960,d960,d960,UberX,Bijoynagar,1,0,0,0,0
+961,d961,d961,Bike,Dhanmondi,1,0,0,0,0
+962,d962,d962,CNG,Gulshan-1,1,0,0,0,0
+963,d963,d963,UberX,Gulshan-2,1,0,0,0,0
+964,d964,d964,UberX,Banani,1,0,0,0,0
+965,d965,d965,Bike,Uttara-1,1,0,0,0,0
+966,d966,d966,CNG,Uttara-3,1,0,0,0,0
+967,d967,d967,UberX,Uttara-7,1,0,0,0,0
+968,d968,d968,UberX,Mirpur-1,1,0,0,0,0
+969,d969,d969,Bike,Mirpur-10,1,0,0,0,0
+970,d970,d970,CNG,Mirpur-12,1,0,0,0,0
+971,d971,d971,UberX,Mohammadpur,1,0,0,0,0
+972,d972,d972,UberX,Farmgate,1,0,0,0,0
+973,d973,d973,Bike,Karwan Bazar,1,0,0,0,0
+974,d974,d974,CNG,Shahbagh,1,0,0,0,0
+975,d975,d975,UberX,Ramna,1,0,0,0,0
+976,d976,d976,UberX,Motijheel,1,0,0,0,0
+977,d977,d977,Bike,Paltan,1,0,0,0,0
+978,d978,d978,CNG,Kamalapur,1,0,0,0,0
+979,d979,d979,UberX,Jatrabari,1,0,0,0,0
+980,d980,d980,UberX,Demra,1,0,0,0,0
+981,d981,d981,Bike,Badda,1,0,0,0,0
+982,d982,d982,CNG,Rampura,1,0,0,0,0
+983,d983,d983,UberX,Malibagh,1,0,0,0,0
+984,d984,d984,UberX,Moghbazar,1,0,0,0,0
+985,d985,d985,Bike,Tejgaon,1,0,0,0,0
+986,d986,d986,CNG,Agargaon,1,0,0,0,0
+987,d987,d987,UberX,Shewrapara,1,0,0,0,0
+988,d988,d988,UberX,Kazipara,1,0,0,0,0
+989,d989,d989,Bike,Pallabi,1,0,0,0,0
+990,d990,d990,CNG,Kallyanpur,1,0,0,0,0
+991,d991,d991,UberX,Gabtoli,1,0,0,0,0
+992,d992,d992,UberX,Hazaribagh,1,0,0,0,0
+993,d993,d993,Bike,Lalbagh,1,0,0,0,0
+994,d994,d994,CNG,Chawk Bazar,1,0,0,0,0
+995,d995,d995,UberX,Sadarghat,1,0,0,0,0
+996,d996,d996,UberX,Keraniganj,1,0,0,0,0
+997,d997,d997,Bike,Shyampur,1,0,0,0,0
+998,d998,d998,CNG,Postogola,1,0,0,0,0
+999,d999,d999,UberX,Wari,1,0,0,0,0
+1000,d1000,d1000,UberX,Sutrapur,1,0,0,0,0
+1001,d1001,d1001,Bike,Gabtoli,1,323.34,1,3,1
+1002,d1002,d1002,Bike,Uttara-7,1,103.85,1,5,1

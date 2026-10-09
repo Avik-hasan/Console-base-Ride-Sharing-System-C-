@@ -1,0 +1,62 @@
+Abdullahpur,Khilkhet,43.83,Bashundhara,43.86,Kuril,44.2,Tongi,1
+Tongi,Uttara-7,1.89,Uttara-3,2.97,Uttara-1,3.06,Airport,4.59,Abdullahpur,1
+Kuril,Baridhara,1.99,Nikunja,1.53,Bashundhara,0.76,Khilkhet,1.33,Abdullahpur,44.2
+Bashundhara,Kuril,0.76,Baridhara,1.76,Nikunja,2.29,Khilkhet,1.96,Abdullahpur,43.86
+Khilkhet,Kuril,1.33,Bashundhara,1.96,Airport,2.46,Nikunja,1.07,Abdullahpur,43.83
+Nikunja,Airport,2.34,Kuril,1.53,Bashundhara,2.29,Khilkhet,1.07
+Airport,Nikunja,2.34,Uttara-1,4.05,Uttara-3,2.44,Uttara-7,2.74,Tongi,4.59,Khilkhet,2.46
+Baridhara,Banani,1.53,Gulshan-2,1.43,Kuril,1.99,Bashundhara,1.76
+Uttara-1,Airport,4.05,Uttara-3,1.63,Uttara-7,2.41,Tongi,3.06
+Uttara-3,Airport,2.44,Uttara-1,1.63,Uttara-7,1.38,Tongi,2.97
+Uttara-7,Airport,2.74,Uttara-1,2.41,Uttara-3,1.38,Tongi,1.89
+Gulshan-2,Mohakhali,1.78,DOHS Mohakhali,1.56,Badda,2.31,Gulshan-1,1.52,Banani,0.33,Baridhara,1.43
+Banani,Gulshan-2,0.33,DOHS Mohakhali,1.68,Gulshan-1,1.78,Baridhara,1.53
+Gulshan-1,Rampura,2.07,Badda,1.15,DOHS Mohakhali,0.87,Mohakhali,1.41,Gulshan-2,1.52,Banani,1.78
+DOHS Mohakhali,Gulshan-1,0.87,Badda,2.01,Nakhalpara,1.46,Mohakhali,0.54,Gulshan-2,1.56,Banani,1.68
+Badda,Gulshan-1,1.15,Rampura,1.91,DOHS Mohakhali,2.01,Gulshan-2,2.31
+Mohakhali,Gulshan-1,1.41,DOHS Mohakhali,0.54,Nakhalpara,1,Gulshan-2,1.78
+Nakhalpara,Agargaon,1.9,Tejgaon,0.88,Farmgate,1.47,DOHS Mohakhali,1.46,Mohakhali,1
+Rampura,Moghbazar,2.14,Malibagh,1.35,Gulshan-1,2.07,Badda,1.91
+Malibagh,Bijoynagar,1.86,Eskaton,1.38,Moghbazar,1.71,Rampura,1.35
+Moghbazar,Malibagh,1.71,Eskaton,0.64,Hatirpool,1.68,Karwan Bazar,1,Farmgate,1.64,Rampura,2.14
+Farmgate,Moghbazar,1.64,Karwan Bazar,1,Panthapath,0.8,Green Road,1.07,Tejgaon,0.59,Nakhalpara,1.47
+Tejgaon,Farmgate,0.59,Karwan Bazar,1.4,Panthapath,1.4,Agargaon,2.09,Nakhalpara,0.88
+Agargaon,Tejgaon,2.09,Kazipara,1.91,Shewrapara,1.98,Kallyanpur,2.21,Nakhalpara,1.9
+Kallyanpur,Mohammadpur,2.34,Gabtoli,1.58,Shewrapara,1.52,Kazipara,2.09,Agargaon,2.21
+Shewrapara,Kallyanpur,1.52,Gabtoli,2.72,Mirpur-1,1.88,Mirpur-10,1.8,Kazipara,0.62,Agargaon,1.98
+Kazipara,Kallyanpur,2.09,Shewrapara,0.62,Mirpur-10,1.46,Mirpur-1,1.99,Mirpur-12,3.26,Pallabi,4.02,Agargaon,1.91
+Panthapath,Elephant Road,0.91,Green Road,0.52,Dhanmondi,1.28,Karwan Bazar,0.84,Hatirpool,0.94,Farmgate,0.8,Tejgaon,1.4
+Karwan Bazar,Panthapath,0.84,Hatirpool,0.84,Eskaton,1.28,Moghbazar,1,Farmgate,1,Tejgaon,1.4
+Green Road,Mohammadpur,2.4,Dhanmondi,0.84,Elephant Road,0.94,Panthapath,0.52,Farmgate,1.07
+Hatirpool,Panthapath,0.94,Karwan Bazar,0.84,Shahbagh,0.64,Elephant Road,0.74,Science Lab,1,Moghbazar,1.68
+Eskaton,Karwan Bazar,1.28,Paltan,1.48,Malibagh,1.38,Moghbazar,0.64
+Bijoynagar,Paltan,0.21,Motijheel,0.62,Kakrail,0.15,Ramna,0.85,Kamalapur,1.54,Malibagh,1.86
+Kamalapur,Demra,6.23,Jatrabari,2.62,Kakrail,1.41,Motijheel,0.95,Paltan,1.74,Bijoynagar,1.54
+Ramna,Kakrail,0.95,Paltan,0.64,Shahbagh,1.04,Bijoynagar,0.85
+Kakrail,Kamalapur,1.41,Ramna,0.95,Motijheel,0.48,Paltan,0.33,Bijoynagar,0.15
+Motijheel,Kamalapur,0.95,Kakrail,0.48,Wari,1.5,Paltan,0.81,Bijoynagar,0.62
+Paltan,Kamalapur,1.74,Ramna,0.64,Kakrail,0.33,Motijheel,0.81,Eskaton,1.48,Bijoynagar,0.21
+Science Lab,New Market,0.8,Hazaribagh,2.32,Shahbagh,1.28,Dhanmondi,0.92,Elephant Road,0.31,Hatirpool,1
+Elephant Road,Science Lab,0.31,Dhanmondi,1,Shahbagh,1.14,New Market,1.08,Green Road,0.94,Panthapath,0.91,Hatirpool,0.74
+Shahbagh,Ramna,1.04,Science Lab,1.28,New Market,1.57,Elephant Road,1.14,Hatirpool,0.64
+Dhanmondi,Science Lab,0.92,Keraniganj,5.44,Hazaribagh,1.76,New Market,1.43,Elephant Road,1,Mohammadpur,2.08,Green Road,0.84,Panthapath,1.28
+Mohammadpur,Dhanmondi,2.08,Gabtoli,2.85,Hazaribagh,2,Keraniganj,5.25,Kallyanpur,2.34,Green Road,2.4
+Pallabi,Mirpur-12,0.78,Mirpur-10,2.56,Mirpur-1,3.01,Kazipara,4.02
+Mirpur-12,Pallabi,0.78,Mirpur-10,1.8,Mirpur-1,2.26,Kazipara,3.26
+Mirpur-1,Pallabi,3.01,Mirpur-12,2.26,Mirpur-10,1.38,Gabtoli,3.25,Shewrapara,1.88,Kazipara,1.99
+Mirpur-10,Pallabi,2.56,Mirpur-12,1.8,Mirpur-1,1.38,Shewrapara,1.8,Kazipara,1.46
+Gabtoli,Mirpur-1,3.25,Mohammadpur,2.85,Kallyanpur,1.58,Shewrapara,2.72
+Keraniganj,Hazaribagh,3.74,New Market,5.23,Dhanmondi,5.44,Mohammadpur,5.25
+Hazaribagh,Keraniganj,3.74,New Market,2.17,Science Lab,2.32,Dhanmondi,1.76,Mohammadpur,2
+New Market,Keraniganj,5.23,Hazaribagh,2.17,Lalbagh,1.82,Science Lab,0.8,Shahbagh,1.57,Dhanmondi,1.43,Elephant Road,1.08
+Wari,Bangshal,1,Postogola,2.59,Sadarghat,1.52,Sutrapur,1.15,Jatrabari,2.56,Motijheel,1.5
+Jatrabari,Shyampur,2.44,Postogola,0.79,Wari,2.56,Demra,4.27,Kamalapur,2.62
+Demra,Jatrabari,4.27,Shyampur,4.96,Postogola,4.55,Kamalapur,6.23
+Postogola,Shyampur,1.69,Sutrapur,2.3,Wari,2.59,Jatrabari,0.79,Demra,4.55
+Shyampur,Postogola,1.69,Sutrapur,3,Sadarghat,3.13,Jatrabari,2.44,Demra,4.96
+Sutrapur,Postogola,2.3,Shyampur,3,Sadarghat,0.48,Islampur,0.64,Bangshal,0.46,Wari,1.15
+Sadarghat,Shyampur,3.13,Sutrapur,0.48,Islampur,0.24,Chawk Bazar,1.39,Bangshal,0.56,Wari,1.52
+Bangshal,Islampur,0.54,Chawk Bazar,1.28,Sutrapur,0.46,Sadarghat,0.56,Lalbagh,2.1,Wari,1
+Lalbagh,Bangshal,2.1,Chawk Bazar,0.86,Islampur,2.01,New Market,1.82
+Islampur,Sadarghat,0.24,Sutrapur,0.64,Chawk Bazar,1.16,Bangshal,0.54,Lalbagh,2.01
+Chawk Bazar,Islampur,1.16,Sadarghat,1.39,Bangshal,1.28,Lalbagh,0.86

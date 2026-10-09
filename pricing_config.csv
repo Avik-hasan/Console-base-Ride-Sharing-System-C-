@@ -1,0 +1,11 @@
+key,value
+bike_base,80
+bike_per_km,12
+cng_base,150
+cng_per_km,18
+uberx_base,300
+uberx_per_km,22
+traffic_factor,0
+weather_factor,0
+demand_weight,0.1
+max_surge_cap,1
